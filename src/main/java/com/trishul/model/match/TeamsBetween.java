@@ -1,6 +1,7 @@
 package com.trishul.model.match;
 
 import com.trishul.model.people.PlayingMembers;
+import com.trishul.model.people.Team;
 
 public class TeamsBetween {
     private Team team1;

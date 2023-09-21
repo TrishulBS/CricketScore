@@ -2,6 +2,7 @@ package com.trishul.model.match;
 
 
 import com.trishul.model.people.Person;
+import com.trishul.model.people.Team;
 import lombok.Getter;
 import lombok.Setter;
 
